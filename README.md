@@ -27,19 +27,6 @@ Acesse o portal de teste gratuito do Azure Computer Vision:
 
 👉 [https://portal.vision.cognitive.azure.com/](https://portal.vision.cognitive.azure.com/)
 
-📸 **Print do acesso ao portal:**
-![alt text](image.png)
-![alt text](image-1.png)
-
----
-
-### 2. Upload da Imagem
-
-Você pode utilizar uma imagem de exemplo ou carregar sua própria imagem para análise.
-
-📸 **Print do upload da imagem:**
-> _Insira aqui o print da imagem carregada_
-
 ---
 
 ### 3. Resultado da Análise
@@ -52,7 +39,8 @@ A ferramenta retorna os seguintes dados:
 - Texto reconhecido (OCR)
 
 📸 **Print dos resultados da análise:**
-> _Insira aqui o print com os resultados_
+![alt text](image.png)
+![alt text](image-1.png)
 
 ---
 
