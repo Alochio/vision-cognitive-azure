@@ -42,10 +42,3 @@ A ferramenta retorna os seguintes dados:
 ![alt text](image.png)
 ![alt text](image-1.png)
 
----
-
-### 4. Interpretação dos Resultados
-
-Descreva abaixo o que os resultados significam e como foram úteis na sua análise.
-
-📝 **Análise dos resultados:**
